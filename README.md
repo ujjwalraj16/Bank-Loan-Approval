@@ -18,6 +18,7 @@ Y → Loan Approved
 N → Loan Rejected
 
 ⚙️ Technologies Used
+
 🐍 Python
 
 📊 Pandas, NumPy
@@ -49,12 +50,13 @@ Random Forest Classifier (Default & Tuned Hyperparameters)
 | Random Forest (Best Tuned) | **97.69%** |
 
 📊 ROC Curve Example
+
 Both models were evaluated using ROC-AUC to measure classification performance beyond accuracy.
 
 📌 Conclusion
 
-Random Forest significantly outperforms Logistic Regression for this dataset.
+1. Random Forest significantly outperforms Logistic Regression for this dataset.
 
-Logistic Regression still provides a simpler, interpretable model.
+2. Logistic Regression still provides a simpler, interpretable model.
 
-Future improvements could include SMOTE for imbalance and feature engineering.
+3. Future improvements could include SMOTE for imbalance and feature engineering.
